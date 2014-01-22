@@ -1,0 +1,28 @@
+input.button {
+	text-align: center;
+	background-color: #96C8E3;
+	width: 3.5em;	
+}
+
+input.buttonAction{
+	text-align: center;
+	background-color: #E3B196;
+	width: 3.5em;	
+}
+
+table{
+	border: 1px solid black;
+	background-color: #DCE0DC;
+}
+div.left{
+	float: left;
+	width: 30%;
+	min-width: 300px;
+}
+
+.clearBoth{ 
+	clear:both; 
+}
+.disabled{
+	background-color: #FFFFFF;
+}
